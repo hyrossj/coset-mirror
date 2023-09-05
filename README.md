@@ -1,1 +1,1 @@
-add yolov10
+Improve Docs Modes tables (#8266)
