@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Update the heatmap module code + docs (#7045)
